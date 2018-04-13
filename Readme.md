@@ -1,8 +1,8 @@
-# Find a fast way to determine some key is in a haystack of 50.000.000.
+# Find a fast way to determine whether some key is within 50 million keys.
 
 ## Results
 
-I've worked on this for 30 mins, so don't take those results for granted.
+I've worked on this for an hour, so don't take those results for granted.
 Also everything is in the context of "on my machine" (which happens to be in the class of 13" 2017 MBPs).
 
 * RipGrep is remakably fast, somehow finding a key in an 800MB plain text file in ~750ms.
